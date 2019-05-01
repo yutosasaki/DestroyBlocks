@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\StartShot.cs" />
     <Compile Include="Assets\Scripts\TextDataFetcher.cs" />
     <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
+    <None Include="Assets\IceMaterial\Shader\Ice.shader" />
     <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/yutosasaki/Documents/unity_work/DestroyBlocks/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
